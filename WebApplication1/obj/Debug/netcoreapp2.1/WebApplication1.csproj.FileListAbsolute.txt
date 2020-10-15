@@ -46,3 +46,6 @@ C:\Users\felipe.vieira\source\repos\WebApplication1\WebApplication1\obj\Debug\ne
 C:\Users\felipe.vieira\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.pdb
 C:\Users\felipe.vieira\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.genruntimeconfig.cache
 C:\Users\felipe.vieira\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csproj.CopyComplete
+C:\Users\felipe.vieira\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\Index.cshtml.g.cs
+C:\Users\felipe.vieira\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\SimpleSearch.cshtml.g.cs
+C:\Users\felipe.vieira\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\GroupingSearch.cshtml.g.cs
